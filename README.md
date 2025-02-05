@@ -7,5 +7,5 @@ This repository contains the data analysis and findings on HIV ART adherence, CD
 
 🔍 Contents:
 📂 reports/ – Final report with key insights
-📂 notebooks/ – Data analysis scripts (Python, R, or SQL)
+📂 notebooks/ – Data analysis scripts (SQL)
 📂 data/ – Processed datasets
